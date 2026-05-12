@@ -22,7 +22,7 @@
   var APPOINTMENT_TURNS = [
     {speaker:"ai",       text:"Hi, you\u2019ve reached LunaCare Wellness Clinic. I can help you book, reschedule, or cancel an appointment.", startTime:0.0},
     {speaker:"customer", text:"Hi, I would like to book an appointment",                                                                    startTime:6.55},
-    {speaker:"ai",       text:"To get started, um, please tell me what type of appointment you\u2019re looking for\u2014like a general consultation, physiotherapy session, or a follow-up visit.", startTime:9.2},
+    {speaker:"ai",       text:"Um, to get started, please tell me what type of appointment you\u2019re looking for\u2014like a general consultation or a physio.", startTime:9.2},
     {speaker:"customer", text:"Um, I\u2019m looking for general consultation.",                                                              startTime:16.35},
     {speaker:"ai",       text:"Got it. And do you have a preferred day or time? I can check the calendar for the earliest available slot.",   startTime:19.4},
     {speaker:"customer", text:"I would prefer a booking for Wednesday, preferably after 3PM",                                                startTime:26.45},
